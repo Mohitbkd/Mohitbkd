@@ -26,7 +26,7 @@
   <br>
   💬 Ask me anything from <a href="https://github.com/MohitBokade/MohitBokade/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: mohitbokade87@gmail.com">mohitbokade87@gmail.com</a>
+  📫 How to reach me: <a href="mailto: mohitbkd87@gmail.com">mohitbokade87@gmail.com</a>
 </p>
 
 
