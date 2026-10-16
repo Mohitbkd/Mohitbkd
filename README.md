@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Mohit Bokade, Data Analyst at MasterSoft ERP Solution
+  Hi, I'm Mohit Bokade, Data Analyst at Tata Consultancy Services
   <br>
   <br>
   💼 I work as a Data Analyst at MasterSoft ERP Solution, specializing in creating Power BI reports for students and universities, as well as developing and deploying machine learning models using Flask.
